@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:0,Impact
+http://206.190.141.27:1935/live/impact.smil/playlist.m3u8
+#EXTINF:0,Бог ТВ
+http://bogtvhdlive-f.akamaihd.net/i/bogtv_main@69601/master.m3u8
+#EXTINF:0,EWTN UA
+http://bogtvhdlive-f.akamaihd.net/main_1_400@79148?v=2.9.4&fp=WIN%2016,0,0,257&r=DIQLE&g=YMULUMYIOWWK
+#EXTINF:0,Вера 24
+http://109.68.190.192:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
+#EXTINF:0,Три Ангела
+http://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:0,TBN (ARM)
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
+#EXTINF:0,TBN (Украина)
+http://109.68.190.192:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+#EXTINF:-1,ONLINE.EMMANUIL.TV YouTube
+https://www.youtube.com/watch?v=IJzQ0yyvWP8
+#EXTINF:-1,Новый Христианский YouTube
+https://www.youtube.com/watch?v=py0Iom9r0AE
+#EXTINF:-1,Спасіння ТВ 2018-03-15 YouTube
+https://www.youtube.com/watch?v=NmnPMKle4Kc
+#EXTINF:-1,ТБН
+http://109.68.190.192:1935/WEB_TBN/TBN.stream/playlist.m3u8
+#EXTINF:-1,Hope TV
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1,Надiя
+http://stream.hope.ua/hopeua/live_1/playlist.m3u8
+#EXTINF:-1,Союз
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1,Союз
+http://hlstv.brn.211.ru/239.211.211.56/stream.m3u8
+#EXTINF:-1,Спас
+http://spastv.cdnvideo.ru/spastv-live/spastv.sdp/playlist.m3u8
+#EXTINF:-1,Спас
+http://213.59.140.192:9992/play/Spas/index.m3u8
+#EXTINF:-1,Спас
+http://112.160.40.55:8090/play/a095/index.m3u8
+#EXTINF:-1,Спас
+http://193.93.236.121:9990/play/Spas/index.m3u8
+#EXTINF:-1,Просвещение
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
+#EXTINF:-1,Глас
+rtmp://gigaz.wi.com.ua/hallDemo/glassru
+#EXTINF:-1,Глас UA
+rtmp://gigaz.wi.com.ua/hallDemo/glassua
+#EXTINF:-1,МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1,Life TV Estonia
+MMS://ONLINE.LIFETV.EE/1
+#EXTINF:0,CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0,CBN ESPANOL
+http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/master.m3u8
+#EXTINF:0,CBN NEWS
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:0,CBN ESPANOL
+http://bcliveuniv-lh.akamaihd.net:80/i/iptv2_1@194050/master.m3u8
+#EXTINF:0,CBN NEWS
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:0,HillSong Channel
+http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/index_1728_av-p.m3u8
+#EXTINF:0,GOD TV (USA)
+http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
+#EXTINF:0,TBN (USA)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+#EXTINF:0,CATHOLIC TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
+#EXTINF:0,The Dove (USA)
+http://s1.thedove.us:1935/theDoveTV/3theDoveTV.sdp/playlist.m3u8
+#EXTINF:0,Храм ТВ (Serbia)
+http://178.253.194.75:1935/live/hram.stream/.m3u8
+#EXTINF:0,Hope Channel
+http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
+#EXTINF:0,Hope Channel (Germ)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/257428/4303072782001/master.m3u8
+#EXTINF:0,Hope Channel (Germ)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/257428/4303072782001/master.m3u8
+#EXTINF:0,Juce TV (USA)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/index_1728_av-p.m3u8
+#EXTINF:0,SmileofaChild
+http://acaooyalahd2-lh.akamaihd.net/i/TBN04_delivery@186242/index_1728_av-p.m3u8

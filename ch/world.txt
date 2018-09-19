@@ -1,0 +1,13 @@
+#EXTINF:0,CBN
+#EXTINF:0,CBN ESPANOL
+#EXTINF:0,CBN NEWS
+#EXTINF:0,HillSong Channel
+#EXTINF:0,GOD TV (USA)
+#EXTINF:0,TBN (USA)
+#EXTINF:0,CATHOLIC TV
+#EXTINF:0,The Dove (USA)
+#EXTINF:0,Храм ТВ (Serbia)
+#EXTINF:0,Hope Channel
+#EXTINF:0,Hope Channel (Germ)
+#EXTINF:0,Juce TV (USA)
+#EXTINF:0,SmileofaChild

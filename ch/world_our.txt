@@ -1,0 +1,7 @@
+#EXTINF:0,Impact
+#EXTINF:0,Бог ТВ
+#EXTINF:0,EWTN UA
+#EXTINF:0,Вера 24
+#EXTINF:0,Три Ангела
+#EXTINF:0,TBN (ARM)
+#EXTINF:0,TBN (Украина)
